@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 320f86f1923a9f34288abcfb6567ad16, type: 3}
+  m_Name: IntroNote
+  m_EditorClassIdentifier: 
+  header: Dear, Mike
+  description: I hid a key under the mattress to the door. Grab the key and enter
+    the building.
+  closing: Sincerley, John
+  objectiveUpdate: Grab the key under the mat.
+  noteAction: 0
